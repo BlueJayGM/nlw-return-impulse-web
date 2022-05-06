@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Components
-import { CloseButton } from './CloseButton';
+import { CloseButton } from '../CloseButton';
 import { FeedbackTypeStep } from './Steps/FeedbackTypeStep';
 import { FeedbackContentStep } from './Steps/FeedbackContentStep';
 
